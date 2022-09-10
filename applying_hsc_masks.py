@@ -7,6 +7,8 @@ import pandas as pd
 import healpy,sys
 from scipy.spatial import cKDTree
 
+
+#run syntex  $python applying_hsc_masks.py input-file-name 
 input_file=sys.argv[1]
 
 
